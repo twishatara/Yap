@@ -1,0 +1,25 @@
+h1, .logo, form, footer, .signup-text, .small-line {
+    text-align: center;
+}
+
+form {
+    background-color: #2B4570;
+    padding: 20px;
+    border: 2px solid #F7ECE1;
+    border-radius: 8px;
+}
+
+.signup-text {
+    text-align: center;
+    margin-top: 10px;
+    color: #F7ECE1;
+    display: flex;
+    justify-content: center; /* Center the items horizontally */
+    align-items: center; /* Center the items vertically */
+}
+
+.small-line {
+    margin-top: -10px;
+    margin-bottom: 20px;
+    color: #F7ECE1;
+}
